@@ -1,0 +1,64 @@
+.container{
+    position: absolute;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}.navullist{
+    position: relative;
+    list-style-type: none;
+    display: inline;
+    margin-left: 1200px;
+    margin-top: 0px;
+    display: flex;
+}
+.navlist{
+    position: relative;
+    display: inline;
+    padding: 30px;
+}
+/* ***************** Home Image ******************** */
+.homeinage{
+    width: 100%;
+    height: 1000px;position: relative;
+  }
+  .section2img{
+    width: 100%;
+    position: absolute;
+}
+
+/* .about{
+
+    border: 2px solid black;
+    font-weight: bolder;
+    border-color: rgb(250, 14, 14);
+    color: rgb(179, 252, 52);
+    font-size: larger;
+    position: relative;
+    padding: 15px;
+    border-radius: 20%;
+    margin-left: 48%;
+    margin-top: 90px;
+    border-style: solid;
+} */
+.sec2{
+    margin-top: -25px;
+}
+
+/* ******************  Footer Started  ******************* */
+.footercontainer{
+    background-color: rgba(250,250,250,0.1);
+   margin-top: 14%;
+    color: white;
+    display: flex;
+}
+.footerLeftContainer{
+   margin-left: 5%;
+}
+.footerlogo{
+    margin-right: 60%;
+    height: 140px;
+    width: 140px;
+}
+.footerRightContainer{
+    margin-left: 40%;
+    margin-top: 5%;
+}
